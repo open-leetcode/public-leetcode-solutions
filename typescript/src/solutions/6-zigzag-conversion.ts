@@ -1,4 +1,4 @@
-// Leetcode Question Solution 6 - ZigZag Conversion
+// Leetcode Question 6 - ZigZag Conversion
 // https://leetcode.com/problems/zigzag-conversion/
 // Level: Medium
 // Category: String

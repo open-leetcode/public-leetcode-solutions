@@ -1,4 +1,4 @@
-// Question 1 - Two Sum
+// Leetcode Question 1 - Two Sum
 // https://leetcode.com/problems/two-sum/
 // Level: Easy
 // Category: Hash Table

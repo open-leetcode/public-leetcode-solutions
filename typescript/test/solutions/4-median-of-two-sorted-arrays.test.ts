@@ -1,6 +1,7 @@
 import { assert } from 'chai';
 import findMedianSortedArrays from '../../src/solutions/4-median-of-two-sorted-arrays';
 
+
 describe('4-median-of-two-sorted-arrays', () => {
     it('running your test...', () => {
         const nums1 = [1, 3];

@@ -1,0 +1,19 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "eslint.validate": [
+    "typescript",
+    "typescriptreact",
+    "javascript"
+  ],
+  "js/ts.implicitProjectConfig.experimentalDecorators": true,
+  "cSpell.words": [
+    "leetcode",
+    "prettierrc"
+  ],
+  "files.exclude": {
+    "src/**/*.js": true,
+    "**/_*.js": true,
+    "**/*.js.map": true,
+  }
+}
